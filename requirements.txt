@@ -3,4 +3,4 @@ pandas
 numpy
 pickle
 altair
-sklearn
+scikit-learn
